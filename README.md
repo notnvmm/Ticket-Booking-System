@@ -4,6 +4,7 @@ Scalable Ticket Booking System
 A backend REST API simulating concurrent ticket booking; built to handle simultaneous seat reservations safely without double booking.
 
 TECH STACK
+
 Java 17, Spring Boot, Spring Security, JWT, MySQL, Spring Data JPA, Lombok, Maven
 
 Key Engineering Highlights
