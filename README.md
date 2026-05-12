@@ -1,4 +1,5 @@
 Scalable Ticket Booking System
+
 A backend REST API simulating concurrent ticket booking; built to handle simultaneous seat reservations safely without double booking.
 
 Tech Stack
